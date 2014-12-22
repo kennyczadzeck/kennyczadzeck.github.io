@@ -4,8 +4,6 @@ email: kenny@kennyc.me
 description: This is Kenny Czadzeck's personal blog covering music, technology, business, and everything in between.
 baseurl: blog.kennyc.me
 url: "http://www.kennyc.me" # the base hostname & protocol for your site
-twitter_username: kennyczadzeck
 github_username:  kennyczadzeck
-
 # Build settings
 markdown: kramdown
