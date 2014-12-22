@@ -2,8 +2,8 @@
 title: Technology is just 0 and 1. Music is just 2 and 3.
 email: kenny@kennyc.me
 description: This is Kenny Czadzeck's personal blog covering music, technology, business, and everything in between.
-baseurl: blog.kennyc.me
-url: "http://www.kennyc.me" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.kennyc.me" # the base hostname & protocol for your site
 github_username:  kennyczadzeck
 # Build settings
 markdown: kramdown
