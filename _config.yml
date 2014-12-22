@@ -4,6 +4,7 @@ email: kenny@kennyc.me
 description: This is Kenny Czadzeck's personal blog covering music, technology, business, and everything in between.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+twitter_username: jekyllrb
 github_username:  kennyczadzeck
 # Build settings
 markdown: kramdown
