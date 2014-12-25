@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some of my favorite 2014 music"
+title:  "favorite music of 2014, and why that feels good to say"
 date:   2014-12-24 19:44:26
 categories: music, life,
 ---
