@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "favorite music of 2014, and why that feels good to say"
+title:  "Favorite music of 2014, and why that feels good to say"
 date:   2014-12-24 19:44:26
-categories: music, life,
+categories: music, life, technology
 ---
 What a year. I was in NYC, Austin, San Francisco, Philadelphia, Las Vegas, Chicago, and probably some others that I'm forgetting. Pretty much all of those were multiple instances too. I was able to release some records of awesome bands that I helped sign, watched them chart on Billboard and proceed to sell out lots of shows! Another rock 'n roll bucket list check mark.
 
