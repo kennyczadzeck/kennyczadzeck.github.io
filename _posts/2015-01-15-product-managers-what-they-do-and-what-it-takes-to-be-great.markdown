@@ -9,7 +9,7 @@ Product Managers: what they do, and what it takes to be great.
 
 One of the perks of being a MakerSquare student is the Lunch & Learn speaker series. The events are low-pressure opportunities for students to get some real-world questions answered, and to network with industry leaders. On the other side of the table, guests have the opportunity to see what newcomers in the field are working on and interested in. Oh, and everyone gets catered lunch. 
 
-Last week, our guest was Matthias Wagner, a seasoned product manager. I was especially interested in his visit, because while most students come to MakerSquare to become great software engineers, my goal is to become a great product manager. 
+Last week, our guest was Matthias Wagner, a seasoned product manager. I was especially interested in his visit, because while most students come to MakerSquare to become great software engineers, eventually becoming a (great) product manager is something I am very interested in. 
 
 Matthias shared with us a bit about what he does at work each day, and what traits and experiences usually make for a good product manager. Here’s what I learned: 
 
