@@ -61,6 +61,12 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
+.intro-message img {
+    border-radius: 100%;
+    max-width: 250px;
+    border: solid #f8f8f8 2px;
+}
+
 @media(max-width:767px) {
     .intro-message {
         padding-bottom: 15%;
